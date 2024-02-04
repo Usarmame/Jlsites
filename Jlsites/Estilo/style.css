@@ -398,7 +398,7 @@
      border-radius: 50px;
  }
 
- form .btn-enviar input:hover {
+ form.btn-enviar input:hover {
      transition: .1s;
      box-shadow: 0px 0px 12px #002325;
      cursor: pointer;
